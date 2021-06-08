@@ -1,0 +1,4 @@
+present
+2
+6
+Freq of 40 is 4
